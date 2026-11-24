@@ -1,0 +1,1196 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.jeitinhodecrianca.com.br"
+        }
+      ],
+      "destination": "https://jeitinhodecrianca.com.br/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/category/atividades/bercario/page/2",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/category/atividades/jardim-i/page/2",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/category/atividades/jardim-ii/page/2",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/category/atividades/maternal-i/page/2",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/category/atividades/maternal-i/page/3",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/category/atividades/maternal-ii/page/2",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/category/atividades/mini-maternal/page/2",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/category/atividades/page/2",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/category/atividades/page/3",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/category/atividades/page/4",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/category/atividades/page/6",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/category/blog/brincadeiras/page/2",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/category/blog/historias/page/2",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/lesson-category/bercario",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/lesson-category/bercario/page/3",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/lesson-category/jardim-i",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/lesson-category/jardim-ii",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/lesson-category/maternal-i",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/lesson-category/maternal-i/page/2",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/lesson-category/maternal-i/page/3",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/lesson-category/maternal-i/page/4",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/lesson-category/maternal-i/page/40",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/lesson-category/maternal-i/page/5",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/lesson-category/maternal-i/page/6",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/lesson-category/maternal-i/page/7",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/lesson-category/maternal-i/page/8",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/lesson-category/maternal-i/page/9",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/lesson-category/maternal-ii",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/lesson-category/maternal-ii/page/2",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/lesson-category/maternal-ii/page/3",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/lesson-category/maternal-ii/page/30",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/lesson-category/maternal-ii/page/4",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/lesson-category/mini-maternal",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/atividade-infantil-tatuape-analia-franco",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/atividades-para-criancas-tatuape-analia-franco-mooca",
+      "destination": "/atividades-e-recreacao-para-criancas-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/atividades-para-criancas-tatuape-analia-franco-mooca/ballet",
+      "destination": "/atividades-e-recreacao-para-criancas-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/atividades-para-criancas-tatuape-analia-franco-mooca/capoeira",
+      "destination": "/atividades-e-recreacao-para-criancas-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/atividades-para-criancas-tatuape-analia-franco-mooca/ingles",
+      "destination": "/atividades-e-recreacao-para-criancas-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/atividades",
+      "destination": "/atividades-e-recreacao-para-criancas-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/atividades/ballet",
+      "destination": "/atividades-e-recreacao-para-criancas-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/atividades/capoeira",
+      "destination": "/atividades-e-recreacao-para-criancas-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/atividades/ingles",
+      "destination": "/atividades-e-recreacao-para-criancas-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/bercario-tatuape-analia-franco-mooca",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/bercario-tatuape-analia-franco-mooca/alimentacao",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/bercario-tatuape-analia-franco-mooca/brinquedoteca",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/bercario-tatuape-analia-franco-mooca/fraldario",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/bercario-tatuape-analia-franco-mooca/lactario",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/bercario-tatuape-analia-franco-mooca/sala-de-estimulacao",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/bercario-tatuape-analia-franco-mooca/sala-do-soninho",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/bercario-tatuape-analia-franco-mooca/shantala",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/bercario-tatuape-analia-franco-mooca/solario",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/bercario-tatuape-analia-franco",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/bercario",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/bercario/alimentacao",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/bercario/brinquedoteca",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/bercario/fraldario",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/bercario/lactario",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/bercario/sala-de-estimulacao",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/bercario/sala-do-soninho",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/bercario/shantala",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/bercario/solario",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/component/users",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/contato-escola-tatuape-analia-franco",
+      "destination": "/contato-escola-no-tatuape-sao-paulo/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/contato",
+      "destination": "/contato-escola-no-tatuape-sao-paulo/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/educacao-infantil-tatuape-analia-franco",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/educacao-infantil",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/educacao-infantil/artes",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/educacao-infantil/culinaria",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/educacao-infantil/danca",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/educacao-infantil/educacao-fisica",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/educacao-infantil/jardinagem-e-horta",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/educacao-infantil/musica",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/educacao-infantil/parque",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/educacao-infantil/sala-de-linguagem",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/educacao-infantil/sala-de-matematica",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/escola-educacao-infantil-escolinha-tatuape-analia-franco-mooca",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/escolinha-educacao-infantil-no-tatuape",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/escolinha-educacao-infantil-no-tatuape/artes",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/escolinha-educacao-infantil-no-tatuape/culinaria",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/escolinha-educacao-infantil-no-tatuape/danca",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/escolinha-educacao-infantil-no-tatuape/educacao-fisica",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/escolinha-educacao-infantil-no-tatuape/jardinagem-e-horta",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/escolinha-educacao-infantil-no-tatuape/musica",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/escolinha-educacao-infantil-no-tatuape/parque",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/escolinha-educacao-infantil-no-tatuape/sala-de-linguagem",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/escolinha-educacao-infantil-no-tatuape/sala-de-matematica",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/informacoes-bebes-e-criancas",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/informacoes-bebes-e-criancas/item/amamentacao-dez-10-dicas-para-amamentar",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/informacoes-bebes-e-criancas/item/criancas-com-menos-de-6-anos-nao-podem-ser-matriculadas-no-ensino-fundamental-reafirma-o-stj",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/informacoes-bebes-e-criancas/item/dia-mundial-da-agua",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/informacoes-bebes-e-criancas/item/habitos-orais-nocivos",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/informacoes-bebes-e-criancas/item/quantas-horas-seu-filho-precisa-dormir-por-dia",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/proposta-pedagogica",
+      "destination": "/lp/sobre-a-escola/",
+      "permanent": true
+    },
+    {
+      "source": "/index.php/quem-somos",
+      "destination": "/lp/sobre-a-escola/",
+      "permanent": true
+    },
+    {
+      "source": "/courses",
+      "destination": "/atividades-e-recreacao-para-criancas-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/courses/2021-jardim-i",
+      "destination": "/atividades-e-recreacao-para-criancas-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/courses/2021-jardim-ii",
+      "destination": "/atividades-e-recreacao-para-criancas-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/courses/2021-maternal-i",
+      "destination": "/atividades-e-recreacao-para-criancas-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/courses/2021-maternal-ii",
+      "destination": "/atividades-e-recreacao-para-criancas-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/courses/bercario",
+      "destination": "/atividades-e-recreacao-para-criancas-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/courses/jardim-i",
+      "destination": "/atividades-e-recreacao-para-criancas-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/courses/jardim-ii",
+      "destination": "/atividades-e-recreacao-para-criancas-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/courses/maternal-i",
+      "destination": "/atividades-e-recreacao-para-criancas-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/courses/maternal-ii",
+      "destination": "/atividades-e-recreacao-para-criancas-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/courses/mini-maternal",
+      "destination": "/atividades-e-recreacao-para-criancas-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/lp/bercario-2022",
+      "destination": "/lp/bercario-2025/",
+      "permanent": true
+    },
+    {
+      "source": "/lp/bercario-2023",
+      "destination": "/lp/bercario-2025/",
+      "permanent": true
+    },
+    {
+      "source": "/lp/educacao-infantil-2022",
+      "destination": "/lp/educacao-infantil-2025/",
+      "permanent": true
+    },
+    {
+      "source": "/lp/educacao-infantil-2023",
+      "destination": "/lp/educacao-infantil-2025/",
+      "permanent": true
+    },
+    {
+      "source": "/bercario-e-educacao-infantil-no-tatuape",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/bercario-no-tatuape-analia-franco-mooca",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/caixa-de-tesouro",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/comunicado-03-abril-2020",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/escola-educacao-infantil-no-tatuape-analia-franco-mooca",
+      "destination": "/escola-educacao-infantil-no-tatuape-mooca-carrao/",
+      "permanent": true
+    },
+    {
+      "source": "/eventos/2017-festa-junina-para-criancas-no-tatuape",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/formatura-2020",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/rematricula-edi2021-trnc",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria-produto/material-escolar-2020",
+      "destination": "/material-escolar/",
+      "permanent": true
+    },
+    {
+      "source": "/categoria-produto/material-escolar-2021",
+      "destination": "/material-escolar/",
+      "permanent": true
+    },
+    {
+      "source": "/sobre",
+      "destination": "/lp/sobre-a-escola/",
+      "permanent": true
+    },
+    {
+      "source": "/bercario",
+      "destination": "/bercario-tatuape-analia-franco-mooca/",
+      "permanent": true
+    },
+    {
+      "source": "/educacao-infantil",
+      "destination": "/lp/educacao-infantil/",
+      "permanent": true
+    },
+    {
+      "source": "/contato",
+      "destination": "/contato-escola-no-tatuape-sao-paulo/",
+      "permanent": true
+    },
+    {
+      "source": "/noticias",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/rdgf_integrations/tour-360",
+      "destination": "/tour-virtual/",
+      "permanent": true
+    },
+    {
+      "source": "/tour-360",
+      "destination": "/tour-virtual/",
+      "permanent": true
+    },
+    {
+      "source": "/10-brincadeiras-para-fazer-em-casa-com-criancas-de-2-a-3-anos",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/12-brincadeiras-para-tornar-a-pascoa-divertida-para-criancas-dentro-de-casa",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/a-casa-sonolenta",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/a-corda-magina",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/a-formiga-e-o-gafanhoto",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/a-grande-boca-do-sapo",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/a-historia-do-tatu",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/a-poluicao-tem-solucao",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/acerte-o-copo",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/alfabeto",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/atividade-de-circuito",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/atividades-para-as-criancas-durante-a-quarentena-do-coronavirus-covid-19",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/atividades-que-estimulam-a-coordenacao-motora-do-seu-bebe",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/brincadeira-arremesso-com-os-pes",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/brincadeira-bexiga-sensorial",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/brincadeira-brincando-com-funil",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/brincadeira-brincando-de-empilhar",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/brincadeira-coordenacao-motora",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/brincadeira-desenho-com-furinhos",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/brincadeira-desgrude-o-palito",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/brincadeira-do-jacare",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/brincadeira-equilibrando-a-bolinha",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/brincadeira-que-tal-rasgar-papel",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/brincadeira-rede-de-brinquedo",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/brincando-com-a-caixa-de-sapato",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/brincando-com-canudo",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/brincando-com-palitos",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/brincar-com-escorredor-de-macarrao",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/brincar-com-pregadores",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/caca-bolinhas",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/caixa-musical",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/carimbo-com-tinta",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/carrinho",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/centopeia-numerica",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/cinco-sentidos",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/como-fazer-massinha-de-modelar-caseira",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/coordenacao-motora-2",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/coordenacao-motora-3",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/cor-amarela",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/cor-azul",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/cor-verde",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/cor-vermelha-2",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/cor-vermelha",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/cores-2",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/cores-3",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/dicas-de-brincadeiras",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/douglas-quer-um-abraco",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/educacao-fisica-vamos-praticar",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/elefantinho",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/emocoes",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/encontros-vocalicos",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/experiencia-do-feijao",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/experiencia",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/forma-geometrica-quadrado",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/formas-geometricas-2",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/formas-geometricas-3",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/funcional-kids",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/futebol-vamos-treinar",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/garrafa-sensorial",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/historia-as-dez-corujinhas",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/historia-do-pedro",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/historia-do-peixe-pixote",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/historia-maria-vai-com-as-outras",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/historia-o-livro-do-planeta-terra",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/historia-peludinho",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/imitando-os-bichinhos",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/indiozinho",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/ingles-cante-com-a-teacher",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/jogo-da-memoria",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/jogo-do-caminho",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/lavar-as-maos",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/minha-conta/lost-password",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/modelando-os-numerais",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/musica-notas-musicais",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/musica-ritmos-lentos-e-rapidos",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/numerais-4",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/numerais-5",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/numerais-6",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/numeros",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/o-coelho-e-a-tartaruga",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/o-gato-que-nao-podia-ir-passear",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/o-jacarezinho-egoista",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/o-leao-e-o-rato",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/o-reino-das-letras-felizes",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/o-segredo-da-bruxinha",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/pescaria-com-espumadeira",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/pintura-com-barbante",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/qual-a-cor-do-amor",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/que-tal-brincar-com-agua",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/reciclagem-de-esponjas-de-limpeza-no-tatuape",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/rosquear-garrafas",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/seres-vivos-e-nao-vivos",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/trabalhando-o-alfabeto-atraves-da-forca",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/treino-com-a-tesoura",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/uma-historia-de-pascoa",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/vamos-carimbar",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/vamos-pintar-a-caixa",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/vogais-3",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/vogais-cursivas",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/vogal-a",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/category/blog/brincadeiras",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/category/blog/historias",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/category/atividades",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/category/atividades/bercario",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/category/atividades/mini-maternal",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/category/atividades/maternal-i",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/category/atividades/maternal-ii",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/category/atividades/jardim-i",
+      "destination": "/category/noticias/",
+      "permanent": true
+    },
+    {
+      "source": "/category/atividades/jardim-ii",
+      "destination": "/category/noticias/",
+      "permanent": true
+    }
+  ]
+}

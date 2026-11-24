@@ -1,0 +1,97 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    margin: 0;
+    font-family: "Open Sans", system-ui, sans-serif;
+    font-weight: 300;
+    color: #262626;
+    background: #ffffff;
+    line-height: 1.65;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  button,
+  .font-display {
+    font-family: Comfortaa, system-ui, sans-serif;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+@layer components {
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    border-radius: 4px;
+    padding: 0.8rem 1.35rem;
+    font-family: Comfortaa, system-ui, sans-serif;
+    font-weight: 700;
+    font-size: 0.95rem;
+    line-height: 1.2;
+    text-decoration: none;
+    border: 2px solid transparent;
+    transition: transform 0.15s ease, background-color 0.15s ease, color 0.15s ease;
+  }
+
+  .btn:hover {
+    transform: translateY(-1px);
+  }
+
+  .btn-gold {
+    background: #f7ad41;
+    color: #1b2746;
+  }
+
+  .btn-gold:hover {
+    background: #ffbe5c;
+  }
+
+  .btn-petrol {
+    background: #70c5cc;
+    color: #1b2746;
+  }
+
+  .btn-petrol:hover {
+    background: #8fd4d9;
+  }
+
+  .btn-outline {
+    background: transparent;
+    color: #ffffff;
+    border-color: rgba(255, 255, 255, 0.75);
+  }
+
+  .btn-outline:hover {
+    background: #ffffff;
+    color: #1b2746;
+  }
+
+  .rule {
+    width: 56px;
+    height: 4px;
+    background: #f7ad41;
+    border: 0;
+  }
+
+  .rule-petrol {
+    width: 56px;
+    height: 4px;
+    background: #70c5cc;
+    border: 0;
+  }
+}
